@@ -1,0 +1,11 @@
+.registration__login__container {
+	height: 75vh;
+}
+.registration__login__col {
+	margin: auto;
+	/* margin-top: 5rem; */
+}
+
+.registration > h2 {
+	text-align: center;
+}

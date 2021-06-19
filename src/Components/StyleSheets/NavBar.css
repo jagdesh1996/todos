@@ -1,0 +1,19 @@
+.navbar__item {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-right: 3rem;
+}
+.nav_cus {
+	/* margin-left: 3rem; */
+	font-size: 1.8rem;
+	font-family: cursive;
+}
+.navbars {
+	margin-bottom: 1rem;
+	width: 100%;
+}
+.nav__title {
+	margin-left: 7rem;
+	font-size: 1.5rem;
+}

@@ -1,0 +1,16 @@
+.navItem {
+	text-decoration: none;
+	list-style: none;
+	padding-right: 2rem;
+	font-size: 1.5rem;
+}
+
+.Login__container {
+	height: 75vh;
+}
+.Login__container__col {
+	margin: auto;
+}
+.Login > h2 {
+	text-align: center;
+}
